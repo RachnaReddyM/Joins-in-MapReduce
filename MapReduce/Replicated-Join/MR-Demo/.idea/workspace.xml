@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f18cb65e-b28a-4e4e-97c5-060dd09decb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Assignment1/MapReduce/MR-Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assignment1/MapReduce/MR-Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/spark-demo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/spark-demo.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/target/classes/wc/UserFollower$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/target/classes/wc/UserFollower$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/target/original-spark-demo-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/target/original-spark-demo-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/target/spark-demo-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Assignment1/Spark/Spark-Demo/target/spark-demo-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wc/ReplicatedJoin$ReplicatedJoinMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wc/ReplicatedJoin$ReplicatedJoinMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wc/ReplicatedJoin$TRIANGLE_COUNTER.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wc/ReplicatedJoin$TRIANGLE_COUNTER.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/wc/ReplicatedJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wc/ReplicatedJoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mr-demo-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mr-demo-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-mr-demo-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-mr-demo-1.0.jar" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/wc/ReplicatedJoin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>WordCount</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/wc/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wc/UserFollower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/wc/ReplicatedJoin.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="47" />
+    <option name="width" value="713" />
+    <option name="height" value="533" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mr-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MR-Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReplicatedJoin">
+    <configuration name="ReplicatedJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wc.ReplicatedJoin" />
+      <module name="mr-demo" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/input $PROJECT_DIR$/output" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserFollower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="wc.UserFollower" />
+      <module name="mr-demo" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/input $PROJECT_DIR$/output" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="wc.WordCount" />
+      <module name="mr-demo" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/input $PROJECT_DIR$/output" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.UserFollower" />
+      <item itemvalue="Application.WordCount" />
+      <item itemvalue="Application.ReplicatedJoin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReplicatedJoin" />
+        <item itemvalue="Application.UserFollower" />
+        <item itemvalue="Application.WordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f18cb65e-b28a-4e4e-97c5-060dd09decb3" name="Default Changelist" comment="" />
+      <created>1548364699739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548364699739</updated>
+      <workItem from="1548364710038" duration="4559000" />
+      <workItem from="1548375303226" duration="693000" />
+      <workItem from="1548376194745" duration="1076000" />
+      <workItem from="1548377459683" duration="2689000" />
+      <workItem from="1549589748011" duration="20621000" />
+      <workItem from="1549644477910" duration="7613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37251000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="733" height="575" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18631732" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23542601" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.118303575" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3295964" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/wc/ReplicatedJoin.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/wc/ReplicatedJoin.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/wc/ReplicatedJoin.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/wc/ReplicatedJoin.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.9.1/hadoop-common-2.9.1.jar!/org/apache/hadoop/util/ToolRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.9.1/hadoop-common-2.9.1.jar!/org/apache/hadoop/io/IntWritable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.9.1/hadoop-mapreduce-client-core-2.9.1.jar!/org/apache/hadoop/mapreduce/task/JobContextImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.9.1/hadoop-common-2.9.1.jar!/org/apache/hadoop/conf/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="1097" selection-start-line="1097" selection-end-line="1097" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/part-m-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/wc/ReplicatedJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
